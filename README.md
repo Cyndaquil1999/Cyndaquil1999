@@ -1,7 +1,19 @@
-- 👋 Hi, I’m @Cyndaquil1999
-- 👀 I’m interested in ...　Datascience, CS, Mathematics, Geography
+# 自己紹介
 
-<!---
-Cyndaquil1999/Cyndaquil1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+名前：hino(Cyndaquil)
+
+出身：北海道札幌市
+
+
+## リンク
+[AtCoder](https://atcoder.jp/users/Cyndaquil)
+
+[Kaggle](https://www.kaggle.com/cyndaquil)
+
+[Twitter](https://twitter.com/19Cyndaquil99)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyndaquil1999)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cyndaquil1999)](https://github.com/anuraghazra/github-readme-stats)
