@@ -1,9 +1,8 @@
 # 自己紹介
 
 名前：hino(Cyndaquil)
-
 出身：北海道札幌市
-
+趣味：ソフトテニス、音ゲー、旅行
 
 ## リンク
 [AtCoder](https://atcoder.jp/users/Cyndaquil)　[Kaggle](https://www.kaggle.com/cyndaquil)　[Twitter](https://twitter.com/19Cyndaquil99)
