@@ -6,12 +6,7 @@
 
 
 ## リンク
-[AtCoder](https://atcoder.jp/users/Cyndaquil)
-
-[Kaggle](https://www.kaggle.com/cyndaquil)
-
-[Twitter](https://twitter.com/19Cyndaquil99)
-
+[AtCoder](https://atcoder.jp/users/Cyndaquil)　[Kaggle](https://www.kaggle.com/cyndaquil)　[Twitter](https://twitter.com/19Cyndaquil99)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cyndaquil1999)](https://github.com/anuraghazra/github-readme-stats)
