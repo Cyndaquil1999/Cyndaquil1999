@@ -10,4 +10,4 @@ https://cyndaquil1999.github.io/
 
 
 ## 歩数履歴
-![https://gunmamon.vercel.app](https://high-wave-403814.an.r.appspot.com?id=6556cecf8852932c17be9399&color_type=orange&bg_color=%23ffffff&text_color=%23000000)
+![https://gunmamon.vercel.app](https://high-wave-403814.an.r.appspot.com?id=656741dcd050ac7b8cb55c82&color_type=red&bg_color=%23aad597&text_color=%23000000)
