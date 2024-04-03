@@ -2,7 +2,7 @@
 
 I'm in 2nd year Master's student at Shinshu University. Please see below.
 
-<a src='https://cyndaquil1999.github.io/'>My Portfolio Page</a>
+[My Portfolio Page](https://cyndaquil1999.github.io/)
 
 # Skills and Status
 
@@ -21,5 +21,4 @@ I'm in 2nd year Master's student at Shinshu University. Please see below.
 <img src='https://skillicons.dev/icons?i=docker,github,gitlab,linux,ubuntu,windows,raspberrypi,vscode' />
 
 ## Links
-
-<a src='https://twitter.com/cyndaquil1729'><img src='https://skillicons.dev/icons?i=twitter' /></a>
+[<img src='https://skillicons.dev/icons?i=twitter' />](https://twitter.com/cyndaquil1729)
