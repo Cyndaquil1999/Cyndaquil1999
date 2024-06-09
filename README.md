@@ -20,5 +20,5 @@ I'm in 2nd year Master's student at Shinshu University. Please see below.
 <h3>Others</h3>
 <img src='https://skillicons.dev/icons?i=docker,github,gitlab,linux,ubuntu,windows,raspberrypi,vscode' />
 
-## Links
+# Links
 [<img src='https://skillicons.dev/icons?i=twitter' />](https://twitter.com/cyndaquil1729)
