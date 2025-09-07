@@ -1,6 +1,7 @@
 # About Me
 
-I'm in 2nd year Master's student at Shinshu University. Please see below.
+社会人になってしまった...。
+ソフトウェアエンジニアをしてます。
 
 [My Portfolio Page](https://cyndaquil1999.github.io/)
 
